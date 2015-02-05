@@ -39,7 +39,7 @@ section {width:100%;float:left;margin:0px;padding:0px;}
 .content_detail {	width:950px;margin:0 auto;padding:0;}
 .reset_pass {padding:10px 0;margin:50px 0 0 0;}
 .reset_pass .logo{width: 100%;text-align:center;padding-bottom: 0px;}
-.reset_pass .logo img{width: 275px;height: 57px;}
+/*.reset_pass .logo img{width: 275px;height: 57px;}*/
 .welcome_text {width:100%;float:left;padding:30px 0 0 0;margin:0;text-align:center;font-size:70px;color:#fffefe;}
 .welcome_text2 {width:100%;float:left;padding:0;margin:52px 0 22px 0;text-align:center;font-size:27px;color:#fffefe;line-height:33px;}
 .reset_title {width:100%;min-height:60px;float:left;padding:0;margin:0;background:#5B2C4F;font-size:30px;color:#1bdcff;line-height:60px;text-align:center;}
