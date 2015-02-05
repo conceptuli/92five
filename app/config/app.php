@@ -39,7 +39,7 @@ return array(
 	|
 	*/
 
-	'timezone' => 'Asia/Kolkata',
+	'timezone' => 'America/New_York',
 
 	/*
 	|--------------------------------------------------------------------------
