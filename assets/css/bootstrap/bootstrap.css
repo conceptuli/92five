@@ -4177,7 +4177,7 @@ input[type="submit"].btn.btn-mini {
   min-height: 40px;
   padding-right: 20px;
   padding-left: 20px;
-  padding-bottom: 20px;
+  /*padding-bottom: 20px;*/
   background-color: #5B2C4F;
   /*background-image: -moz-linear-gradient(top, #ffffff, #f2f2f2);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#f2f2f2));
