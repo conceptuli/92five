@@ -42,18 +42,18 @@ section {width:100%;float:left;margin:0px;padding:0px;}
 .reset_pass .logo img{width: 275px;height: 57px;}
 .welcome_text {width:100%;float:left;padding:30px 0 0 0;margin:0;text-align:center;font-size:70px;color:#fffefe;}
 .welcome_text2 {width:100%;float:left;padding:0;margin:52px 0 22px 0;text-align:center;font-size:27px;color:#fffefe;line-height:33px;}
-.reset_title {width:100%;min-height:60px;float:left;padding:0;margin:0;background:#2e3641;font-size:30px;color:#1bdcff;line-height:60px;text-align:center;}
+.reset_title {width:100%;min-height:60px;float:left;padding:0;margin:0;background:#5B2C4F;font-size:30px;color:#1bdcff;line-height:60px;text-align:center;}
 .reset_form {width:100%;min-height:344px;float:left;padding:0;margin:0 0 40px 0;background:#ffffff;}
 .field_main {width:95%;float:left;padding:0 0 0 44px;margin:43px 0 0 0;}
 .field_data {margin-bottom:12px;position:relative;}
-.field_name {font-size:24px;color:#2e3641;line-height:46px;}
+.field_name {font-size:24px;color:#5B2C4F;line-height:46px;}
 .progress_data {width:259px;height:33px;float:left;margin:7px 0 0 0;}
 .progress_data img {width:259px;height:33px;}
 .progress_data2 {float:left;margin:13px 0 0 15px !important;}
 .progress_data2 img {width:20px;height:16px;}
 .submit_button_main {width:100%;float:left;padding:0;margin:12px 0 0 0;text-align:center;}
-.submit {height:45px;padding:0 24px;margin:0;background:#2e3641;font-size:24px;line-height:45px;text-align:center;border:none;color:#ffffff;font-family:'Lato_lig';}
-.submit:hover {background:#1BDCFF;color:#2E3641;}
+.submit {height:45px;padding:0 24px;margin:0;background:#5B2C4F;font-size:24px;line-height:45px;text-align:center;border:none;color:#ffffff;font-family:'Lato_lig';}
+.submit:hover {background:#1BDCFF;color:#5B2C4F;}
 .password_update {width:100%;float:left;padding:0;margin:34px 0 54px 0;font-size:44px;color:#bebaba;text-align:center;line-height:48px;}
 #progressbar {width:259px;height:33px;display:block;border-left:1px solid #ccc;border-right:1px solid #ccc;border-top:1px solid #ccc;border-bottom:1px solid #ccc;border-top-right-radius: 8px;border-top-left-radius: 8px;border-bottom-right-radius: 8px;border-bottom-left-radius: 8px;overflow:hidden;background-color: white;}
 #progress {display:block;height:100px;width:0%;}
@@ -68,16 +68,16 @@ section {width:100%;float:left;margin:0px;padding:0px;}
 }
 .pass1{ width:20px; height:16px; float:left; padding:0; margin:0; background:url(../../images/forgotpassword/right.png) no-repeat left top;}
 .fail1{ width:20px; height:16px; float:left; padding:0; margin:0; background:url(../../images/forgotpassword/wrong.png) no-repeat left top;}
-.reset_text{ width:100%; float:left; padding:0; margin:35px 0 0 0; text-align:center; font-size:28px; color:#2E3641;}
-#steps, .widgard-top{ background:#2e3641; padding:14px 12px 6px; margin:0;}
+.reset_text{ width:100%; float:left; padding:0; margin:35px 0 0 0; text-align:center; font-size:28px; color:#5B2C4F;}
+#steps, .widgard-top{ background:#5B2C4F; padding:14px 12px 6px; margin:0;}
 #steps li, .widgard-top span{ background:url(../images/widgard-arrow.png) left 8px no-repeat; padding:0 19px 0 27px; color:#fffefe; font-size:26px; line-height:30px; font-size:0px; display:inline-block;}
 #steps li.current, .widgard-top span.current{ color:#1bdcff;}
 .widgard-top span.first, #steps li#stepDesc0{ background:none; padding-left:0;}
 #steps li span{ font-size:22px;}
 fieldset legend{ display:none;}
 #step1commands, #step0commands, #step2commands, #step3commands, #step4commands{ text-align:right; width:100%; float:left;}
-a.next{ background:#2e3641; color:#fffefe; text-transform:uppercase; font-size:24px; padding:12px 28px; margin:0 30px 0 13px; display:inline-block;}
-a.next:hover{ background:#1BDCFF; color:#2E3641; text-decoration:none;}
+a.next{ background:#5B2C4F; color:#fffefe; text-transform:uppercase; font-size:24px; padding:12px 28px; margin:0 30px 0 13px; display:inline-block;}
+a.next:hover{ background:#1BDCFF; color:#5B2C4F; text-decoration:none;}
 a.prev{ background:#939393; color:#fffefe; text-transform:uppercase; font-size:24px; padding:12px 28px; display:inline-block;}
 a.prev:hover{ text-decoration:none;}
 .radio-label{ color:#c0bebe; padding-right:20px; float:left; line-height:36px; font-size:24px;}

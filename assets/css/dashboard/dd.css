@@ -148,7 +148,7 @@
 	line-height:21px;
 }
 .dd2 .ddChild a:hover {
-	background-color:#2e3641;
+	background-color:#5B2C4F;
 	color:#fff;
 }
 .dd2 .ddChild a img {
@@ -157,7 +157,7 @@
 	vertical-align:middle;
 }
 .dd2 .ddChild a.selected {
-	background-color:#2e3641;
+	background-color:#5B2C4F;
 	color:#fff;
 }
 .dd2 .borderTop {

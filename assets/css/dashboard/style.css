@@ -136,7 +136,7 @@ section {
 	font-weight:normal;
 	text-align:center;
 	border-bottom:1px solid #949494;
-	background-color: #2E3641;
+	background-color: #5B2C4F;
 }
 .task_pending {
 	/*padding:5px 16px 0 10px;*/
@@ -619,13 +619,13 @@ textarea {
 #Grid .mix{opacity: 0;display: none;}
 .project_bg{ background:#f2f2f2 !important;}
 .project_detail{ font-family:'Lato_lig'; min-height: 650px !important;} 
-.project_detail h2{ padding:0 10px; margin:0 0 10px 0; font-size:18px; color:#14b9d6; font-weight:normal; background:#2e3641;}
+.project_detail h2{ padding:0 10px; margin:0 0 10px 0; font-size:18px; color:#14b9d6; font-weight:normal; background:#5B2C4F;}
 .project_details h2 a {text-decoration: none; color:#14b9d6 !important;}
 .project_detail h2 a:hover{text-decoration: none; color: #14b9d6 !important;}
 .add_project_main{ width:100%; float:left; padding:0; margin:0;}
 .add-last{ float:right !important; margin-right:0 !important;}
-.add_project{ float:left; padding:9px; margin:0 10px 10px 0; font-size:14px; color:#ffffff; text-decoration:none; background:#2e3641; font-family: 'Lato_reg';}
-.add_project:hover{background:#14B9D6; color:#2E3641;text-decoration:none;}
+.add_project{ float:left; padding:9px; margin:0 10px 10px 0; font-size:14px; color:#ffffff; text-decoration:none; background:#5B2C4F; font-family: 'Lato_reg';}
+.add_project:hover{background:#14B9D6; color:#5B2C4F;text-decoration:none;}
 .add_project.activeproject:hover{background:#ee8e11; color:#fff;text-decoration:none; }
 .add_project.activeproject.active{background:#ee8e11; color:#fff;}
 .add_project.complproject:hover{background:#2a6d1a; color:#fff;text-decoration:none; }
@@ -633,7 +633,7 @@ textarea {
 .add_project.delayedproject:hover{background:#ca0505; color:#fff;text-decoration:none; }
 .add_project.delayedproject.active{background:#ca0505; color:#fff;}
 .project_box{width:100%; float:left; padding:0; margin:0 0 0 0;}
-.add_project.active{ background:#14B9D6; color:#2E3641;}
+.add_project.active{ background:#14B9D6; color:#5B2C4F;}
 .project_box h4{ width:100%; float:left; padding:7px 10px 9px 10px; margin:0; font-size:26px; color:#ffffff; font-weight:normal; font-family:'Lato_lig'; line-height: 25px;}
 .project_box h4 a{ font-size:26px; color:#ffffff;  }
 .project_box h4 a:hover{ text-decoration: none; }
@@ -872,7 +872,7 @@ border-color: rgba(82, 168, 236, 0.8);
 	height:45px;
 	padding:0 24px;
 	margin:0;
-	background:#2e3641;
+	background:#5B2C4F;
 	font-size:18px;
 	line-height:45px;
 	text-align:center;
@@ -888,7 +888,7 @@ border-color: rgba(82, 168, 236, 0.8);
 	height:45px;
 	padding:10px 24px;
 	margin:0;
-	background:#2e3641;
+	background:#5B2C4F;
 	font-size:18px;
 	line-height:45px;
 	text-align:center;
@@ -901,13 +901,13 @@ border-color: rgba(82, 168, 236, 0.8);
 }
 .submit_button_main a:hover{
 	background:#14B9D6;
-	color:#2E3641;
+	color:#5B2C4F;
 }
 
 
 .submit:hover {
 	background:#14B9D6;
-	color:#2E3641;
+	color:#5B2C4F;
 }
 .add-proj-form .control-group{ margin-bottom:25px !important;}
 .add_proj_right{ margin-top:10px;}
@@ -916,7 +916,7 @@ border-radius:0;
 	-webkit-border-radius:0;
 	-moz-border-radius:0;}
 .add_file_upload .input.span3, textarea.span3, .uneditable-input.span3{ width:270px;}
-.add_file_upload .btn{ height:45px; margin-top:-1px; padding:0 34px; background:#2E3641; font-size:18px; line-height:45px; text-align:center; color:#ffffff; font-family:'Lato_reg';}
+.add_file_upload .btn{ height:45px; margin-top:-1px; padding:0 34px; background:#5B2C4F; font-size:18px; line-height:45px; text-align:center; color:#ffffff; font-family:'Lato_reg';}
 .add_file_upload .fileupload-new .input-append .btn-file{
 border-radius:0;
 	-webkit-border-radius:0;
@@ -1152,7 +1152,7 @@ ul.task_list li a:hover{ text-decoration:none; color:#000000;}
     right: 0 !important;
     z-index: 9999;
     /* Styles */
-    background: #2E3641;
+    background: #5B2C4F;
    font-size: 17px !important;
     border-top: none;
     border-bottom: none;
@@ -1209,12 +1209,12 @@ font-family: 'Lato_reg';
 .p-icon-1 img{ width:40px; height:40px;}
 .add_task_form{ width:100%; float:left; padding:20px; margin:0;}
 .add_task_button_main { width:100%; float:left; padding:0; margin:0; text-align:center;}
-.add_task_submit { height:45px; padding:0 24px; margin:8px; background:#2e3641; font-size:18px; line-height:45px; text-align:center; border:none; color:#ffffff; font-family:'Lato_lig'; cursor:pointer;}
-.add_task_submit:hover{background:#14B9D6; color:#2E3641; }
-.submit:hover { background:#14B9D6; color:#2E3641;}
+.add_task_submit { height:45px; padding:0 24px; margin:8px; background:#5B2C4F; font-size:18px; line-height:45px; text-align:center; border:none; color:#ffffff; font-family:'Lato_lig'; cursor:pointer;}
+.add_task_submit:hover{background:#14B9D6; color:#5B2C4F; }
+.submit:hover { background:#14B9D6; color:#5B2C4F;}
 .add_task_form .file-upload{ width:auto; margin-right:11px; padding:2px 27px 2px 0;}
 .add_new_task_right{ width:100%; float:left !important; padding:0; margin:0; background:#fff !important;}
-.add_new_task_right h3{ width:100%; float:left; padding:6px 0 6px 0; margin:0; font-size:24px; color:#ffffff; font-weight:normal; background:#2e3641; text-align:center;}
+.add_new_task_right h3{ width:100%; float:left; padding:6px 0 6px 0; margin:0; font-size:24px; color:#ffffff; font-weight:normal; background:#5B2C4F; text-align:center;}
 .sub_task_list_main{ width:100%; float:left; padding:0; margin:0;}
 .sub_task_icon{ width:17px; float:right; padding:0; margin:0; text-align:center;}
 .sub_task_icon img{ width:17px; height:13px;}
@@ -1386,7 +1386,7 @@ font-family: 'Lato_reg';
 .time_listing{ width:100%; float:left; padding:30px 0 0 0; margin:10px 0 0 0; border-top:1px solid #dcf4f9;}
 .time_listing_1{ padding:0; margin:0; font-size:15px; color:#ffffff;text-align: center; font-family: 'Lato_reg';}
 .time_listing_1 a{ color:#ffffff; text-decoration:none; font-family: 'Lato_reg';}
-.time_listing_1 a:hover{ color:#2e3641; text-decoration:none;}
+.time_listing_1 a:hover{ color:#5B2C4F; text-decoration:none;}
 .time_listing_2{ font-size:12px; line-height:normal;}
 .cal_date{ width:50%; float:left; padding:0; margin:0; font-size:130px; color:#ffffff; line-height:normal; font-weight:normal;}
 .cal_date sup{ padding:0; margin:0; font-size:40px; color:#ffffff; vertical-align:super; line-height:normal; font-weight:normal;}
@@ -1401,12 +1401,12 @@ font-family: 'Lato_reg';
 .cal_month_2{ width:70%; margin:0 auto; padding:0;}
 .cal_month_2 p{ width:100%; float:left; padding:0; margin:0; font-size:33px; color:#14b9d6; text-align:center;}
 .cal_detail_3{ width:100%; float:left; padding:0; margin:30px 0 0 0;}
-.cal_detail_3 tr td{ font-size:23px; color:#2e3641; padding:12px 5px; text-align:center; vertical-align:middle;}
+.cal_detail_3 tr td{ font-size:23px; color:#5B2C4F; padding:12px 5px; text-align:center; vertical-align:middle;}
 .event{ color:white !important; background:#2ecc71; cursor: pointer;}
 .today{ background:#14b9d6 !important; padding:5px; color:#fff !important;}
 .adjacent-month{ color:#b3b0b0 !important;}
 .modal-body{ font-family:'Lato_lig'; max-height: 400px !important;}
-.cal_light_box .modal-header{ font-size:30px; color:#ffffff; background:#2e3641; border-bottom:1px solid #2e3641; font-family:'Lato_lig';}
+.cal_light_box .modal-header{ font-size:30px; color:#ffffff; background:#5B2C4F; border-bottom:1px solid #5B2C4F; font-family:'Lato_lig';}
 .cal_light_box button.close{ color:#fff; opacity:0.8;}
 .popup_event{ width:100%; float:left; padding:0; margin:0;}
 .cal_light_box .file-upload{ width:auto; margin-right:11px; padding:2px 27px 2px 0;}
@@ -1472,7 +1472,7 @@ font-family: 'Lato_reg';
 .calender-viewevent .viewevent-note{ color:#000;}
 .timesheet-form{ float:left; padding:0; margin:0;}
 .timesheet-form [type="text"]{ height:40px; font-family:'Lato_lig';}
-.timesheet-form [type="button"]{ height:40px; font-family:'Lato_reg'; font-size:14px; color:#ffffff; background:#2e3641; border:none; text-shadow:none;}
+.timesheet-form [type="button"]{ height:40px; font-family:'Lato_reg'; font-size:14px; color:#ffffff; background:#5B2C4F; border:none; text-shadow:none;}
 .calender-viewevent .p-icon-1 img {
     width: 30px;
     height: 30px;
@@ -1493,7 +1493,7 @@ font-size: 20px;
 .confirm-delete{ padding:30px 0; margin:0; font-size:25px; color:#333333;}
 .confirm-button{ padding:0 0 30px 0; margin:0; font-size:13px; color:#4f8dde; text-align:center;}
 .confirm-button span{ font-size:13px; color:#333333;}
-.confirm-button a{ padding:10px; margin:0; font-size:13px; color:#4f8dde; background:#2e3641; color:#fff;}
+.confirm-button a{ padding:10px; margin:0; font-size:13px; color:#4f8dde; background:#5B2C4F; color:#fff;}
 .confirm-button a:hover{ text-decoration:none;}
 .editevent-detail .file-upload{ width:auto; margin-right:11px; padding:2px 27px 2px 0;}
 .editevent-button .submit{ float:none; margin-bottom:}
@@ -1541,12 +1541,12 @@ font-size: 20px;
 }
 .add-time-button{ margin-bottom:30px;}
 .todo-detail-1{ width: 100% !important; float: left !important; padding:0; margin:0; background:#14b9d6;}
-.todo-add-btn{ padding:12px; margin:0 0 0 10px !important; font-size:14px; color:#ffffff; background:#2e3641; font-family:'Lato_lig'; text-shadow:none;
+.todo-add-btn{ padding:12px; margin:0 0 0 10px !important; font-size:14px; color:#ffffff; background:#5B2C4F; font-family:'Lato_lig'; text-shadow:none;
 border-radius:0 !important;
 -webkit-border-radius:0 !important;
 -moz-border-radius:0 !important;
 }
-.todo-add-btn:hover, .todo-add-btn:focus{ background:#2e3641; color:#fff; text-shadow:none;}
+.todo-add-btn:hover, .todo-add-btn:focus{ background:#5B2C4F; color:#fff; text-shadow:none;}
 .todo-detail-3{ width:100%; float:left; padding:20px 20px 10px 20px; margin:0; background:#fff;}
 .todo-detail-3 ul{ width:100%; float:left; padding:0; margin:0;}
 .todo-detail-3 ul li{ width:100%; float:left; padding:0 0 10px 0; margin:0 0 10px 0; list-style:none; border-bottom:1px solid #d4d4d4;}
@@ -1566,7 +1566,7 @@ border-radius:0 !important;
 .report-image img{ width:auto; height:auto;}
 .work-report-title{ width:100%; float:left; padding:0; margin:10px 0 0 0; font-size:28px; color:#000000; line-height:normal;}
 .report-summay{ width:100%; float:left; padding:0; margin:0 0 25px 0; background:#ffffff;}
-.report-summay h3{ width:100%; float:left; padding:11px 0 9px 15px; margin:0; background:#2e3641; font-size:20px; color:#fcfcfc; line-height:normal; font-weight:normal;}
+.report-summay h3{ width:100%; float:left; padding:11px 0 9px 15px; margin:0; background:#5B2C4F; font-size:20px; color:#fcfcfc; line-height:normal; font-weight:normal;}
 .report-summay-inner{ width:100%; float:left; padding:20px 20px 10px 20px; margin:0;}
 .summary-left{ width:100%; float:left !important; padding:0; margin:0 0 20px 0;}
 .summary-detail-1{ width:100%; float:left; padding:0; margin:0; font-size:22px; color:#000000; line-height:normal; font-family: 'Lato_reg';}
@@ -1640,7 +1640,7 @@ ul.test_sub_task a:hover{ text-decoration:none;}
 .collaborators_time span{ font-size:29px; color:#2a6d1a;}
 .roles_detail_main{ width:100%; float:left !important; padding:0; margin:0 0 25px 0;}
 .roles_detail{ width:100%; float:left !important; padding:0; margin:0 0 20px 0; background:#ffffff;}
-.roles_detail h2{ width:100%; float:left; padding:17px 0; margin:0; font-size:19px; color:#ffffff; line-height:normal; text-align:center; background:#2e3641;}
+.roles_detail h2{ width:100%; float:left; padding:17px 0; margin:0; font-size:19px; color:#ffffff; line-height:normal; text-align:center; background:#5B2C4F;}
 .roles_detail_2{ width:100%; float:left; padding:15px; margin:0;}
 .roles_detail_2 ul{ width:100%; min-height:250px;  float:left; padding:0; margin:0;}
 .roles_detail_2 ul li{ width:100%; float:left; padding:0; margin:0 0 5px 0; list-style:none; font-size:17px; color:#000000; font-family: 'Lato_reg';}
@@ -1687,7 +1687,7 @@ border-radius:8px;
 .edituser_social{ width:64px; height:64px; float:left; margin:0 15px 0 0;}
 .edituser_detail_right{ overflow:hidden; margin:8px 0 0 0;}
 .change_email{ width:100%; float:left !important; padding:0; margin:0 0 25px 0; background:#ffffff;}
-.change_email h3{ width:100%; float:left; padding:11px 0 9px 15px; margin:0; background:#2e3641; font-size:20px; color:#fcfcfc; line-height:normal; font-weight:normal;}
+.change_email h3{ width:100%; float:left; padding:11px 0 9px 15px; margin:0; background:#5B2C4F; font-size:20px; color:#fcfcfc; line-height:normal; font-weight:normal;}
 .change_email_inner{ width:100%; float:left; padding:20px; margin:0;}
 .email_detail_1{ width:500px; margin:0 auto; padding:0;}
 .email_detail_2{ width:100%; float:left; padding:0; margin:0; font-size:22px; color:#000000; line-height:46px; font-family: 'Lato_reg';}
@@ -1733,7 +1733,7 @@ border-radius:8px;
     }
 .pass1{ width:20px; height:16px; float:left; padding:0; margin:0; background:url(../../images/forgotpassword/right.png) no-repeat left top;}
 .fail1{ width:20px; height:16px; float:left; padding:0; margin:0; background:url(../../images/forgotpassword/wrong.png) no-repeat left top;}
-.reset_text{ width:100%; float:left; padding:0; margin:35px 0 0 0; text-align:center; font-size:20px; color:#2E3641;}
+.reset_text{ width:100%; float:left; padding:0; margin:35px 0 0 0; text-align:center; font-size:20px; color:#5B2C4F;}
 .progress_data2 {
 	float:left;
 	margin:13px 0 0 15px !important;
@@ -1757,7 +1757,7 @@ border-radius:8px;
 .viewuser_active p{ width:100%; float:left; padding:0; margin:0; font-size:11px; color:#b4b1b1; line-height:15px;}
 .viewuser_right{ width:100%; float:left; padding:5px 0 0 0; margin:0 0 10px 0;}
 .viewuser_right p{ width:100%; float:left; padding:0; margin:0 0 10px 0; font-size:13px; color:#000000; line-height:16px;}
-.user_edit{ height:30px; float:left; padding:0 10px 5px 10px; margin:0 0 0 10px; font-size:17px; color:#fefefe; background:#2e3641; line-height:30px;}
+.user_edit{ height:30px; float:left; padding:0 10px 5px 10px; margin:0 0 0 10px; font-size:17px; color:#fefefe; background:#5B2C4F; line-height:30px;}
 .user_edit:hover{ color:#fff; text-decoration:none;}
 .adduser_sec{ width:100%; float:left; padding:50px; margin:0;}
 .adduser_sec p{ width:100%; float:left; padding:0; margin:0 0 30px 0; font-size:24px; color:#959393; line-height:normal; text-align: center;}
@@ -1836,7 +1836,7 @@ ul.admin_listing li a:hover{ text-decoration: none;}
 }
 .adduserwithdetails{ width: 100%; float: left; padding: 0; margin: 0;}
 .adduserwithdetails a {font-size: 16px; font-family: 'Lato_reg';color: #14B9D6;}
-.adduserwithdetails a:hover{text-decoration: none; color: #2E3641;}
+.adduserwithdetails a:hover{text-decoration: none; color: #5B2C4F;}
 .projecttaskrem{font-size: 24px; font-family: 'Lato_lig';}
 .projecttaskrem:hover{text-decoration: none;}
 .createventicon a img{height: 30px; width: 30px;}

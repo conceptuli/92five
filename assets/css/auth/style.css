@@ -74,7 +74,7 @@ section {
     float: left;
     padding: 0;
     margin: 0;
-    background: #2e3641;
+    background: #5B2C4F;
     font-size: 30px;
     color: #1bdcff;
     line-height: 60px;
@@ -136,7 +136,7 @@ section {
 }
 .field_name {
     font-size: 26px;
-    color: #2e3641;
+    color: #5B2C4F;
     line-height: 46px;
 }
 .progress_data {
@@ -168,7 +168,7 @@ section {
     height: 45px;
     padding: 10px 24px 15px 24px;
     margin: 0;
-    background: #2e3641;
+    background: #5B2C4F;
     font-size: 24px;
     line-height: 45px;
     text-align: center;
@@ -177,7 +177,7 @@ section {
 }
 .submit_button_main a:hover{
     background: #1BDCFF;
-    color: #2E3641;
+    color: #5B2C4F;
     text-decoration: none;
 }
 .installtz{
@@ -204,7 +204,7 @@ section {
     height: 45px;
     padding: 0 24px;
     margin: 0;
-    background: #2e3641;
+    background: #5B2C4F;
     font-size: 24px;
     line-height: 45px;
     text-align: center;
@@ -213,7 +213,7 @@ section {
 }
 .submit:hover {
     background: #1BDCFF;
-    color: #2E3641;
+    color: #5B2C4F;
 }
 .password_update {
     width: 100%;
@@ -294,7 +294,7 @@ section {
     margin: 35px 0 0 0;
     text-align: center;
     font-size: 20px;
-    color: #2E3641;
+    color: #5B2C4F;
 }
 .donetext{
     line-height: 41px;
