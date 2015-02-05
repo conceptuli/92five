@@ -1,6 +1,6 @@
 @extends('dashboard.default')
 @section('head')
-<title>92five app - {{trans('92five.eventsCreatedByMe')}}</title>
+<title>Wynkk Project Management - {{trans('92five.eventsCreatedByMe')}}</title>
 @stop
 @section('content')
 

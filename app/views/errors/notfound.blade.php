@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" >
-<title>92five app - {{$subject}} Not Found </title>
+<title>Wynkk Project Management - {{$subject}} Not Found </title>
 {{ HTML::style('assets/css/errorpages/style.css') }}
 {{ HTML::style('assets/css/errorpages/custom.css') }}
 

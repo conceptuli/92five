@@ -1,6 +1,6 @@
 @extends('dashboard.default')
 @section('head')
-<title>92five app -  {{trans('92five.Roles')}}</title>
+<title>Wynkk Project Management -  {{trans('92five.Roles')}}</title>
 @stop
 @section('content')
 <div id="contentwrapper">

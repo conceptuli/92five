@@ -57,7 +57,7 @@
                     <td style="font-size: 13px; color: #959595; font-weight: normal; text-align: left; font-family: Helvetica, Arial, sans-serif; line-height: 24px; vertical-align: top; padding:25px 0">
                         <a href="#" style="text-decoration: none; color: #272727; font-size: 18px; color: #272727; font-weight: bold; ">Email Verification.</a><br><br/>
                         Hi {{ $name }}, <br/>
-						You have change your email address on 92five App. We need to make sure that you haven't made any typo errors.  Please <b style="color: #5b5b5b;"><a href={{$link}} style="text-decoration:none; color:black;">click here</a></b> to verify your new email. <br/>
+						You have change your email address on Wynkk Project Management. We need to make sure that you haven't made any typo errors.  Please <b style="color: #5b5b5b;"><a href={{$link}} style="text-decoration:none; color:black;">click here</a></b> to verify your new email. <br/>
 						
 						Alternatively, you can paste the following link into the browser. <br/>
 						Link: {{$link}}
@@ -67,7 +67,7 @@
 						
 						Thanks,
 						<br/>
-						-92five App Team
+						-Wynkk Project Management Team
 						<br/>
 						P.S. If you have not cahnged your email, please contact administrator.
 						 							

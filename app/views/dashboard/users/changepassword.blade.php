@@ -1,6 +1,6 @@
 @extends('dashboard.default')
 @section('head')
-<title>92five app - Change Password</title>
+<title>Wynkk Project Management - Change Password</title>
 @stop
 @section('content')
 	 <!-- main content -->

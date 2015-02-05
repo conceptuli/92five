@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>92five App - Reset Password</title>
+<title>Wynkk Project Management - Reset Password</title>
 <!-- CSS -->
 {{ HTML::style('assets/css/auth/bootstrap.css') }}
 {{ HTML::style('assets/css/auth/bootstrap-responsive.css') }}
@@ -67,7 +67,7 @@
       </div>
     </div>
   </div>
-  <div class="footer">&copy; 2014 92five app </div>
+  <div class="footer">&copy; 2014 Wynkk Project Management </div>
 </section>
 </body>
 </html>

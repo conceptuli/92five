@@ -79,7 +79,7 @@ class Email{
 			    		);
 				Mail::queue('emails.auth.activateuser', $data, function($message) use ($email)
 				{
-				    $message->to($email)->subject('Invitation to Join 92five app');
+				    $message->to($email)->subject('Invitation to Join Wynkk Project Management');
 				});
 				return true;
 			}

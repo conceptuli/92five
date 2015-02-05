@@ -1,6 +1,6 @@
 @extends('dashboard.default')
 @section('head')
-<title>92five app - Change User Role</title>
+<title>Wynkk Project Management - Change User Role</title>
 @stop
 @section('content')
 <div id="contentwrapper">

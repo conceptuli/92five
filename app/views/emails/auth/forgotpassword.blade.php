@@ -57,7 +57,7 @@
                     <td style="font-size: 13px; color: #959595; font-weight: normal; text-align: left; font-family: Helvetica, Arial, sans-serif; line-height: 24px; vertical-align: top; padding:25px 0">
                         <a href="#" style="text-decoration: none; color: #272727; font-size: 18px; color: #272727; font-weight: bold; ">Forgot Password Assistance.</a><br><br/>
                         Hi {{ $name }}, <br/>
-						We have been told that you have forgot your password on 92five App. It happens. Dont worry, we have got it all covered. Please <b style="color: #5b5b5b;"><a href={{$link}} style="text-decoration:none; color:black;">click here</a></b> to reset your password. <br/>
+						We have been told that you have forgot your password on Wynkk Project Management. It happens. Dont worry, we have got it all covered. Please <b style="color: #5b5b5b;"><a href={{$link}} style="text-decoration:none; color:black;">click here</a></b> to reset your password. <br/>
 						
 						Alternatively, you can paste the following link into your browser to get started. <br/>
 						Link: {{$link}}
@@ -67,7 +67,7 @@
 						
 						Thanks,
 						<br/>
-						-92five App Team
+						-Wynkk Project Management Team
 						<br/>
 						P.S. If you didn't requested, you may safely ignore it.
 						 							

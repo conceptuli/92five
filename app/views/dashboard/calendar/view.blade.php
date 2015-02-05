@@ -1,6 +1,6 @@
 @extends('dashboard.default')
 @section('head')
-<title>92five app - Calendar</title>
+<title>Wynkk Project Management - Calendar</title>
 @stop
 @section('content')
 <div id="contentwrapper">

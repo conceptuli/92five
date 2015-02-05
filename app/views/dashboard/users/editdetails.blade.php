@@ -1,6 +1,6 @@
 @extends('dashboard.default')
 @section('head')
-<title>92five app - Edit Profile</title>
+<title>Wynkk Project Management - Edit Profile</title>
 @stop
 @section('content')
 <div id="contentwrapper">

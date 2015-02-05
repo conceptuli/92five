@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>92five App - Installation Database</title>
+<title>Wynkk Project Management - Installation Database</title>
 <!-- CSS -->
 {{ HTML::style('assets/css/auth/bootstrap.css') }}
 {{ HTML::style('assets/css/auth/bootstrap-responsive.css') }}
@@ -68,7 +68,7 @@
       </div>
     </div>
   </div>
-  <div class="footer">&copy; 2014 92five app </div>
+  <div class="footer">&copy; 2014 Wynkk Project Management </div>
 </section>
 {{ HTML::script('assets/js/simplelogin/parsley.js') }}
   {{ HTML::style('assets/css/simplelogin/parsley.css') }}
