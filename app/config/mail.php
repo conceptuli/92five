@@ -15,7 +15,7 @@ return array(
 	|
 	*/
 
-	'driver' => 'smtp',
+	'driver' => 'sendmail',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -28,7 +28,7 @@ return array(
 	|
 	*/
 
-	'host' => '',
+	'host' => 'localhost',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -55,8 +55,8 @@ return array(
 	*/
 
 	'from' => array(
-		'address' =>'',
-		'name' => '',
+		'address' =>'no-reply@wynkk.co',
+		'name' => 'Projects No Reply',
 		),
 
 	/*
